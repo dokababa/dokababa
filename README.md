@@ -93,7 +93,6 @@ MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yr
 
 | Project | Description | Stack | Result |
 |:--|:--|:--|:--|
-| [🥽 VR Census Visualization](https://github.com/dokababa/vr-census-visualization) | Interactive 3D U.S. Census data on Meta Quest 3 — county-level income, population & poverty | Unity · C# · OpenXR | 3,100+ data points |
 | [🤙 Formal → Gen Z Translator](https://github.com/dokababa/flan-t5-genz-translator) | Fine-tuned FLAN-T5 with QLoRA on 28k pairs; injected 210 emoji/slang tokens | HuggingFace · QLoRA · W&B | BLEU 42→58 · ROUGE-L 0.54→0.76 |
 | [📈 Time Series Forecasting](https://github.com/dokababa/time-series-etth-forecasting) | Oil temp prediction on ETTh dataset — LSTM, 1D CNN, and N-BEATS comparison | PyTorch · N-BEATS | MAE 0.76°C vs 1.63°C baseline (53% ↑) |
 | [🖼️ Image Segmentation U-Net](https://github.com/dokababa/unet-image-segmentation) | Medical image segmentation with VGG16 transfer learning encoder | PyTorch · U-Net · VGG16 | Optimized MeanIoU |
@@ -101,7 +100,6 @@ MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yr
 | [🐘 Guess the Animal Game](https://github.com/dokababa/guess-the-animal-ml) | ML game using AWA2 dataset — model IDs your animal via yes/no questions | Scikit-learn · Decision Tree | Interactive & accurate |
 | [📰 Fake News Detection](https://github.com/dokababa/fake-news-detection) | Naive Bayes vs ANN comparison for fake news classification | R · Keras · NLP | Naive Bayes 91.1% |
 | [📣 Marketing Campaign KNN](https://github.com/dokababa/marketing-campaign-knn-nb) | KNN & Naive Bayes for campaign outcome prediction | R · Scikit-learn | KNN 75% · NB 72% |
-| [🎬 Text-to-Video Synthesis](https://github.com/dokababa/text-to-video-synthesis) | Text scripts → videos with TTS, image retrieval & word-level audio sync | Python · FFmpeg · NLP | End-to-end pipeline |
 
 ---
 
