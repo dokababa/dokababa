@@ -23,9 +23,9 @@
 | 💡 Fun fact | Still the "hello world" of ML — used in virtually every intro course, 88 years later |
 
 ```
-Setosa     ████████████████████ 33%
-Versicolor ████████████████████ 33%
-Virginica  ████████████████████ 33%
+Setosa         ███████░░░░░░░░░░░░░ 33%
+Versicolor     ███████░░░░░░░░░░░░░ 33%
+Virginica      ███████░░░░░░░░░░░░░ 33%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
