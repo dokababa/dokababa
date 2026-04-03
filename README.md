@@ -23,9 +23,9 @@
 | 💡 Fun fact | Still the "hello world" of ML — used in virtually every intro course, 88 years later |
 
 ```
-Setosa         ███████░░░░░░░░░░░░░ 33%
-Versicolor     ███████░░░░░░░░░░░░░ 33%
-Virginica      ███████░░░░░░░░░░░░░ 33%
+Setosa     ████████████████████ 33%
+Versicolor ████████████████████ 33%
+Virginica  ████████████████████ 33%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
@@ -105,18 +105,6 @@ MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yr
 
 ---
 
-## GitHub Stats
-
 <div align="center">
-
-![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dokababa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d0ccc8&icon_color=8a8680&text_color=d0ccc8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dokababa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d0ccc8&text_color=d0ccc8)
-
-</div>
-
----
-
-<div align="center">
-<sub><i>"The goal is to turn data into information, and information into insight."</i></sub>
+<sub><i>"You are one observation in an infinite dataset. Yet the universe only knows itself through observations like you, which makes you, somehow, all of it."</i></sub>
 </div>
