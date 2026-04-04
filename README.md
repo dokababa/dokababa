@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 Dataset Spotlight &nbsp;·&nbsp; <sub>rotates daily — a different classic ML dataset every day</sub>
+## 📊 Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
 | | **MNIST Handwritten Digits** |
