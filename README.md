@@ -93,10 +93,16 @@ MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yr
 | Project | Description | Stack | Result |
 |:--|:--|:--|:--|
 | [🤙 Formal → Gen Z Translator](https://github.com/dokababa/flan-t5-genz-translator) | Fine-tuned FLAN-T5 with QLoRA on 28k pairs; injected 210 emoji/slang tokens | HuggingFace · QLoRA · W&B | BLEU 42→58 · ROUGE-L 0.54→0.76 |
-| [📈 Time Series Forecasting](https://github.com/dokababa/time-series-etth-forecasting) | Oil temp prediction on ETTh dataset — LSTM, 1D CNN, and N-BEATS comparison | PyTorch · N-BEATS | MAE 0.76°C vs 1.63°C baseline (53% ↑) |
-| [🖼️ Image Segmentation U-Net](https://github.com/dokababa/unet-image-segmentation) | Medical image segmentation with VGG16 transfer learning encoder | PyTorch · U-Net · VGG16 | Optimized MeanIoU |
-| [✂️ RPS Classifier (CNN)](https://github.com/dokababa/rps-image-classification) | Rock-Paper-Scissors image classifier with DenseNet121 transfer learning | TensorFlow · DenseNet121 | ~99% val accuracy |
-| [🐘 Guess the Animal Game](https://github.com/dokababa/guess-the-animal-ml) | ML game using AWA2 dataset — model IDs your animal via yes/no questions | Scikit-learn · Decision Tree | Interactive & accurate |
+| [🧮 GSM8K Math Reasoning](https://github.com/dokababa/gsm8k-flan-t5) | Fine-tuned FLAN-T5 with 4-bit QLoRA on 8.5k math word problems | HuggingFace · QLoRA · BitsAndBytes | Exact match eval on GSM8K |
+| [📈 Time Series Forecasting](https://github.com/dokababa/etth-forecasting) | Oil temp prediction on ETTh1 — LSTM, 1D CNN, and N-BEATS comparison | TensorFlow · N-BEATS | MAE 0.76°C vs 1.99°C naive baseline (62% ↑) |
+| [🖼️ Image Segmentation U-Net](https://github.com/dokababa/unet-segmentation) | Custom U-Net + VGG16 encoder for multi-class semantic segmentation | TensorFlow · U-Net · VGG16 | MeanIoU across 8 classes |
+| [✂️ RPS Classifier (CNN)](https://github.com/dokababa/rps-cnn) | 5 CNN architectures + DenseNet121 transfer learning for RPS classification | TensorFlow · DenseNet121 | ~99% val accuracy |
+| [✈️ ANN from Scratch — Regression](https://github.com/dokababa/ann-from-scratch) | Two-layer → multi-layer ANN built with TensorFlow primitives; flight price regression | TensorFlow · GradientTape | RMSE vs Linear Regression baseline |
+| [🔢 MNIST ANN from Scratch](https://github.com/dokababa/mnist-ann-scratch) | Multi-class ANN using raw TF ops — GradientTape, matmul, He init, softmax | TensorFlow · GradientTape | ~91% val accuracy |
+| [⚡ MNIST ANN — Improved](https://github.com/dokababa/mnist-ann-improved) | Same ANN upgraded with Adam, mini-batch GD, BatchNorm, dropout, L2, plateau LR | TensorFlow · Adam · BatchNorm | ~96% val accuracy |
+| [🧪 MNIST with Keras](https://github.com/dokababa/mnist-keras) | Sequential API progression: baseline → BatchNorm → dropout → Hyperband tuning | Keras · Keras Tuner · Hyperband | 98.3% val accuracy |
+| [⚖️ Recidivism Prediction](https://github.com/dokababa/recidivism-prediction) | Lasso, Ridge, RF, GBM, SVM, NN + Shapley values & fairness metrics | R · caret · glmnet · keras3 | RF best at 79.6% · fairness analysis |
+| [🐘 Guess the Animal Game](https://github.com/dokababa/guess-the-animal) | Interactive ML game — model IDs your animal via yes/no questions (AWA2, R + Python) | Scikit-learn · Decision Tree · R | Clean tree traversal game loop |
 | [📰 Fake News Detection](https://github.com/dokababa/fake-news-detection) | Naive Bayes vs ANN comparison for fake news classification | R · Keras · NLP | Naive Bayes 91.1% |
 | [📣 Marketing Campaign KNN](https://github.com/dokababa/marketing-campaign-knn-nb) | KNN & Naive Bayes for campaign outcome prediction | R · Scikit-learn | KNN 75% · NB 72% |
 
