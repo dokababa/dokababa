@@ -28,7 +28,7 @@
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
-> ⚙️ *Powered by GitHub Actions — auto-updates daily to spotlight a new dataset. Check back tomorrow!*
+> ⚙️ *Auto-updates daily to spotlight a new dataset. Check back tomorrow!*
 
 ---
 
