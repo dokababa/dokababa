@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
+## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
 | | **MNIST Handwritten Digits** |
@@ -32,7 +32,7 @@
 
 ---
 
-## About Me
+## · About Me ·
 
 MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yrs, Fortune 500 client). I build end-to-end ML pipelines, predictive models, and data visualizations — from churn models driving **$4M/month revenue** to fine-tuning transformers with QLoRA on a single GPU.
 
@@ -43,7 +43,7 @@ MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yr
 
 ---
 
-## Tech Stack
+## · Tech Stack ·
 
 **ML & Deep Learning**
 
@@ -88,7 +88,7 @@ MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yr
 
 ---
 
-## Projects
+## · Projects ·
 
 | Project | Description | Stack | Result |
 |:--|:--|:--|:--|
