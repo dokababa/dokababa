@@ -111,5 +111,5 @@ MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yr
 ---
 
 <div align="center">
-<sub><i>"You are one observation in an infinite dataset. Yet the universe only knows itself through observations like you, which makes you, somehow, all of it. ॐ"</i></sub>
+<sub><i>"You are one observation in an infinite dataset. Yet the universe only knows itself through observations like you, which makes you, somehow, all of it. ॐ "</i></sub>
 </div>
