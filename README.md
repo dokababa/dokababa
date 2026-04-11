@@ -91,7 +91,7 @@ MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yr
 
 | Project | Description | Stack | Result |
 |:--|:--|:--|:--|
-| **[📋 OpenReturn](https://github.com/dokababa/OpenReturn)** | Free AI-powered conversational assistant for US federal tax guidance. Uses RAG over IRS documents (2023–2025) + Llama 3.3 70B via Groq to provide plain-English line-by-line help and generate a personalized PDF roadmap. | Streamlit · LangGraph · LangChain · ChromaDB · Groq (Llama 3.3 70B) · ReportLab | Live on Hugging Face Spaces |
+| [📋 OpenReturn](https://github.com/dokababa/OpenReturn) | Free AI-powered conversational assistant for US federal tax guidance. Uses RAG over IRS documents (2023–2025) + Llama 3.3 70B via Groq to provide plain-English line-by-line help and generate a personalized PDF roadmap. | Streamlit · LangGraph · LangChain · ChromaDB · Groq (Llama 3.3 70B) · ReportLab | Live on Hugging Face Spaces |
 | [🤙 Formal → Gen Z Translator](https://github.com/dokababa/flan-t5-genz-translator) | Fine-tuned FLAN-T5 with QLoRA on 28k pairs; injected 210 emoji/slang tokens | HuggingFace · QLoRA · W&B | BLEU 42→58 · ROUGE-L 0.54→0.76 |
 | [🧮 GSM8K Math Reasoning](https://github.com/dokababa/gsm8k-flan-t5) | Fine-tuned FLAN-T5 with 4-bit QLoRA on 8.5k math word problems | HuggingFace · QLoRA · BitsAndBytes | Exact match eval on GSM8K |
 | [📈 Time Series Forecasting](https://github.com/dokababa/etth-forecasting) | Oil temp prediction on ETTh1 — LSTM, 1D CNN, and N-BEATS comparison | TensorFlow · N-BEATS | MAE 0.76°C vs 1.99°C naive baseline (62% ↑) |
