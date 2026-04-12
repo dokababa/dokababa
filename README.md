@@ -14,16 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **ImageNet (ILSVRC)** |
+| | **IMDB Movie Reviews** |
 |:--|:--|
-| 📁 Samples | 1,200,000 |
-| 🏷️ Features | Variable (high-res RGB images) |
-| 🎯 Classes | 1,000 object categories |
-| 📅 Introduced | 2010 · Fei-Fei Li et al. |
-| 💡 Fun fact | AlexNet halved the error rate on ImageNet in 2012 — the moment the deep learning era officially began |
+| 📁 Samples | 50,000 |
+| 🏷️ Features | Variable-length text reviews |
+| 🎯 Classes | 2 — Positive · Negative |
+| 📅 Introduced | 2011 · Maas et al. (Stanford) |
+| 💡 Fun fact | One of the earliest large-scale sentiment datasets; still a top benchmark for NLP transfer learning |
 
 ```
-~1,200 imgs/class ████████████████████ 100%
+Positive       ██████████░░░░░░░░░░ 50%
+Negative       ██████████░░░░░░░░░░ 50%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
