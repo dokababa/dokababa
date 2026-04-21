@@ -34,12 +34,12 @@ Outer boroughs ███████░░░░░░░░░░░░░ 35%
 
 ## · About Me ·
 
-MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yrs, Fortune 500 client). I build end-to-end ML pipelines, predictive models, and data visualizations — from churn models driving **$4M/month revenue** to fine-tuning transformers with QLoRA on a single GPU.
+MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2+ yrs, Fortune 500 client). I build end-to-end ML pipelines, predictive models, and data visualizations — from churn models driving **$4M/month revenue** to fine-tuning transformers with QLoRA on a single GPU.
 
-- 🎓 Master of Science in Data Analytics · University of Illinois at Springfield (2024–2025) &nbsp;&nbsp; 
-- 🎓 Bachelor of Technology in Computer Science & Engineering · National Institute of Technology, Hamirpur (2018–2022) &nbsp;&nbsp; 
 - 💼 Ex-Data Analyst @ Tredence Analytics · Bangalore, Karnataka (India)
 - 🥽 Graduate Research Assistant (VR Data Visualization Research | Meta Quest 3 + Unity)
+- 🎓 Master of Science in Data Analytics · University of Illinois at Springfield (2024–2025) &nbsp;&nbsp; 
+- 🎓 Bachelor of Technology in Computer Science & Engineering · National Institute of Technology, Hamirpur (2018–2022) &nbsp;&nbsp; 
 - 📍 Based out of Springfield, IL (USA) &nbsp;&nbsp; 
 
 ---
