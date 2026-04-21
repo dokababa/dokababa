@@ -38,8 +38,8 @@ MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2 yr
 
 - 🎓 MS Data Analytics · UIS (2024–2025) &nbsp;|&nbsp; BTech CS&E · NIT Hamirpur (2018–2022)
 - 💼 Ex-Data Analyst @ Tredence Analytics · Bangalore, Karnataka (India)
-- 🥽 VR Data Visualization Research · Meta Quest 3 + Unity
-- 📍 Springfield, IL (USA) &nbsp;·&nbsp; 
+- 🥽 Graduate Research Assistant (VR Data Visualization Research · Meta Quest 3 + Unity)
+- 📍 Based out of Springfield, IL (USA) &nbsp;&nbsp; 
 
 ---
 
