@@ -14,17 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **NYC Taxi Trips** |
+| | **AWA2 (Animals with Attributes)** |
 |:--|:--|
-| 📁 Samples | 1,000,000,000 |
-| 🏷️ Features | 18 (pickup/dropoff, fare, tip…) |
-| 🎯 Classes | Continuous (fare / duration) |
-| 📅 Introduced | 2009–present · NYC TLC |
-| 💡 Fun fact | 1B+ trips since 2009 — researchers used it to expose driver identity from supposedly anonymised medallion IDs |
+| 📁 Samples | 37,322 |
+| 🏷️ Features | 85 semantic attributes + images |
+| 🎯 Classes | 50 animal species |
+| 📅 Introduced | 2018 · Xian et al. |
+| 💡 Fun fact | Designed for zero-shot learning — the semantic attributes let models reason about animals they've never seen before |
 
 ```
-Manhattan      █████████████░░░░░░░ 65%
-Outer boroughs ███████░░░░░░░░░░░░░ 35%
+Seen (40)      ████████████████░░░░ 80%
+Unseen (10)    ████░░░░░░░░░░░░░░░░ 20%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
