@@ -14,17 +14,18 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **AWA2 (Animals with Attributes)** |
+| | **Reuters-21578** |
 |:--|:--|
-| 📁 Samples | 37,322 |
-| 🏷️ Features | 85 semantic attributes + images |
-| 🎯 Classes | 50 animal species |
-| 📅 Introduced | 2018 · Xian et al. |
-| 💡 Fun fact | Designed for zero-shot learning — the semantic attributes let models reason about animals they've never seen before |
+| 📁 Samples | 21,578 |
+| 🏷️ Features | Variable-length news text |
+| 🎯 Classes | 90 categories (multi-label) |
+| 📅 Introduced | 1987 · Reuters Ltd. |
+| 💡 Fun fact | One of the first multi-label text datasets — many articles belong to multiple topics simultaneously |
 
 ```
-Seen (40)      ████████████████░░░░ 80%
-Unseen (10)    ████░░░░░░░░░░░░░░░░ 20%
+Earn           ████████░░░░░░░░░░░░ 40%
+Acq            ███░░░░░░░░░░░░░░░░░ 14%
+Other          █████████░░░░░░░░░░░ 46%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
