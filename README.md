@@ -14,19 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **CIFAR-100** |
+| | **Twitter Sentiment140** |
 |:--|:--|
-| 📁 Samples | 60,000 |
-| 🏷️ Features | 3072 (32×32×3 RGB) |
-| 🎯 Classes | 100 fine / 20 coarse |
-| 📅 Introduced | 2009 · Krizhevsky |
-| 💡 Fun fact | 100 fine-grained classes grouped into 20 superclasses — "baby", "boy", "girl" are all subclasses of "people" |
+| 📁 Samples | 1,600,000 |
+| 🏷️ Features | Variable-length tweets |
+| 🎯 Classes | 2 — Positive · Negative |
+| 📅 Introduced | 2009 · Go et al. (Stanford) |
+| 💡 Fun fact | Labels were automatically assigned using emoticons as proxies — :) = positive, :( = negative. No human annotation needed |
 
 ```
-Each class     ░░░░░░░░░░░░░░░░░░░░ 1%
-Each class     ░░░░░░░░░░░░░░░░░░░░ 1%
-Each class     ░░░░░░░░░░░░░░░░░░░░ 1%
-Each class     ░░░░░░░░░░░░░░░░░░░░ 1%
+Positive       ██████████░░░░░░░░░░ 50%
+Negative       ██████████░░░░░░░░░░ 50%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
