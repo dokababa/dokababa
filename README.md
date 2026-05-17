@@ -14,17 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Diabetes (Pima Indians)** |
+| | **Credit Card Fraud Detection** |
 |:--|:--|
-| 📁 Samples | 768 |
-| 🏷️ Features | 8 (glucose, BMI, age…) |
-| 🎯 Classes | 2 — Diabetic · Non-diabetic |
-| 📅 Introduced | 1988 · National Institute of Diabetes |
-| 💡 Fun fact | Collected from Pima Native American women in Arizona — the community has one of the highest type-2 diabetes prevalence rates worldwide |
+| 📁 Samples | 284,807 |
+| 🏷️ Features | 30 (PCA-transformed transactions) |
+| 🎯 Classes | 2 — Fraud · Legitimate |
+| 📅 Introduced | 2013 · ULB (anonymized) |
+| 💡 Fun fact | Only 0.17% of transactions are fraudulent — the ultimate class imbalance challenge; SMOTE was popularized on datasets like this |
 
 ```
-Non-diabetic   █████████████░░░░░░░ 65%
-Diabetic       ███████░░░░░░░░░░░░░ 35%
+Legitimate     ████████████████████ 100%
+Fraud          ░░░░░░░░░░░░░░░░░░░░ 0%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
