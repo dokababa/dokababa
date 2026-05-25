@@ -14,18 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Reuters-21578** |
+| | **Heart Disease (Cleveland)** |
 |:--|:--|
-| 📁 Samples | 21,578 |
-| 🏷️ Features | Variable-length news text |
-| 🎯 Classes | 90 categories (multi-label) |
-| 📅 Introduced | 1987 · Reuters Ltd. |
-| 💡 Fun fact | One of the first multi-label text datasets — many articles belong to multiple topics simultaneously |
+| 📁 Samples | 303 |
+| 🏷️ Features | 13 (age, cholesterol, ECG…) |
+| 🎯 Classes | 2 (presence/absence) |
+| 📅 Introduced | 1988 · UCI · Detrano et al. |
+| 💡 Fun fact | Despite only 303 samples, it's been cited 3,000+ times — proof that a tiny but well-curated dataset can outlast massive ones |
 
 ```
-Earn           ████████░░░░░░░░░░░░ 40%
-Acq            ███░░░░░░░░░░░░░░░░░ 14%
-Other          █████████░░░░░░░░░░░ 46%
+No disease     ███████████░░░░░░░░░ 54%
+Disease        █████████░░░░░░░░░░░ 46%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
