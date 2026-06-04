@@ -14,18 +14,18 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Open Images V7** |
+| | **Iris** |
 |:--|:--|
-| 📁 Samples | 9,000,000 |
-| 🏷️ Features | Multi-res RGB + bounding boxes |
-| 🎯 Classes | 600 object categories |
-| 📅 Introduced | 2022 · Google |
-| 💡 Fun fact | 9M images with 40M bounding boxes — the annotations took 15M human-hours to produce |
+| 📁 Samples | 150 |
+| 🏷️ Features | 4 (sepal/petal length & width) |
+| 🎯 Classes | 3 — Setosa · Versicolor · Virginica |
+| 📅 Introduced | 1936 · Ronald Fisher |
+| 💡 Fun fact | Still the "hello world" of ML — used in virtually every intro course, 88 years later |
 
 ```
-Train          ██████████████████░░ 89%
-Val            █░░░░░░░░░░░░░░░░░░░ 6%
-Test           █░░░░░░░░░░░░░░░░░░░ 5%
+Setosa         ███████░░░░░░░░░░░░░ 33%
+Versicolor     ███████░░░░░░░░░░░░░ 33%
+Virginica      ███████░░░░░░░░░░░░░ 33%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
