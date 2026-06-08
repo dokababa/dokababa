@@ -14,19 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **CIFAR-10** |
+| | **Breast Cancer Wisconsin** |
 |:--|:--|
-| 📁 Samples | 60,000 |
-| 🏷️ Features | 3072 (32×32×3 RGB) |
-| 🎯 Classes | 10 (airplane, car, bird…) |
-| 📅 Introduced | 2009 · Krizhevsky & Hinton |
-| 💡 Fun fact | AlexNet's 2012 win on ImageNet used techniques first validated on CIFAR-10, kicking off the deep learning revolution |
+| 📁 Samples | 569 |
+| 🏷️ Features | 30 (tumor geometry) |
+| 🎯 Classes | 2 — Malignant · Benign |
+| 📅 Introduced | 1995 · UCI ML Repository |
+| 💡 Fun fact | Features were computed from digitized FNA biopsy images — one of the earliest clinical ML datasets |
 
 ```
-Each class     ██░░░░░░░░░░░░░░░░░░ 10%
-Each class     ██░░░░░░░░░░░░░░░░░░ 10%
-Each class     ██░░░░░░░░░░░░░░░░░░ 10%
-Each class     ██░░░░░░░░░░░░░░░░░░ 10%
+Benign         █████████████░░░░░░░ 63%
+Malignant      ███████░░░░░░░░░░░░░ 37%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
