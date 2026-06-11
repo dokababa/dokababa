@@ -14,19 +14,18 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Fashion-MNIST** |
+| | **Wine Quality** |
 |:--|:--|
-| 📁 Samples | 70,000 |
-| 🏷️ Features | 784 (28×28 pixels) |
-| 🎯 Classes | 10 (T-shirt, trouser, dress…) |
-| 📅 Introduced | 2017 · Zalando Research |
-| 💡 Fun fact | Created as a harder drop-in replacement for MNIST after researchers noted MNIST was "too easy" for modern CNNs |
+| 📁 Samples | 6,497 |
+| 🏷️ Features | 11 (acidity, sulphates, alcohol…) |
+| 🎯 Classes | 10 quality scores (3–9) |
+| 📅 Introduced | 2009 · UCI · Cortez et al. |
+| 💡 Fun fact | Physicochemical tests alone can predict wine quality — no sommelier required (though accuracy tops out ~65%) |
 
 ```
-Each class     ██░░░░░░░░░░░░░░░░░░ 10%
-Each class     ██░░░░░░░░░░░░░░░░░░ 10%
-Each class     ██░░░░░░░░░░░░░░░░░░ 10%
-Each class     ██░░░░░░░░░░░░░░░░░░ 10%
+Score ≤5       █████████░░░░░░░░░░░ 46%
+Score 6        ████████░░░░░░░░░░░░ 40%
+Score ≥7       ███░░░░░░░░░░░░░░░░░ 14%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
