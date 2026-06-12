@@ -14,18 +14,16 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Wine Quality** |
+| | **ImageNet (ILSVRC)** |
 |:--|:--|
-| 📁 Samples | 6,497 |
-| 🏷️ Features | 11 (acidity, sulphates, alcohol…) |
-| 🎯 Classes | 10 quality scores (3–9) |
-| 📅 Introduced | 2009 · UCI · Cortez et al. |
-| 💡 Fun fact | Physicochemical tests alone can predict wine quality — no sommelier required (though accuracy tops out ~65%) |
+| 📁 Samples | 1,200,000 |
+| 🏷️ Features | Variable (high-res RGB images) |
+| 🎯 Classes | 1,000 object categories |
+| 📅 Introduced | 2010 · Fei-Fei Li et al. |
+| 💡 Fun fact | AlexNet halved the error rate on ImageNet in 2012 — the moment the deep learning era officially began |
 
 ```
-Score ≤5       █████████░░░░░░░░░░░ 46%
-Score 6        ████████░░░░░░░░░░░░ 40%
-Score ≥7       ███░░░░░░░░░░░░░░░░░ 14%
+~1,200 imgs/class ████████████████████ 100%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
