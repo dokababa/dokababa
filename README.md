@@ -14,17 +14,18 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **IMDB Movie Reviews** |
+| | **Boston Housing** |
 |:--|:--|
-| 📁 Samples | 50,000 |
-| 🏷️ Features | Variable-length text reviews |
-| 🎯 Classes | 2 — Positive · Negative |
-| 📅 Introduced | 2011 · Maas et al. (Stanford) |
-| 💡 Fun fact | One of the earliest large-scale sentiment datasets; still a top benchmark for NLP transfer learning |
+| 📁 Samples | 506 |
+| 🏷️ Features | 13 (crime rate, rooms, accessibility…) |
+| 🎯 Classes | Continuous (median home value) |
+| 📅 Introduced | 1978 · Harrison & Rubinfeld |
+| 💡 Fun fact | Retired from scikit-learn in 2021 — the dataset contains a racial proxy variable that encodes discriminatory assumptions |
 
 ```
-Positive       ██████████░░░░░░░░░░ 50%
-Negative       ██████████░░░░░░░░░░ 50%
+<$20K          ███████░░░░░░░░░░░░░ 34%
+$20–30K        ███████░░░░░░░░░░░░░ 36%
+>$30K          ██████░░░░░░░░░░░░░░ 30%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
