@@ -14,18 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **ETTh (Electricity Transformer Temperature)** |
+| | **Spam Email (Enron)** |
 |:--|:--|
-| 📁 Samples | 17,420 |
-| 🏷️ Features | 7 (load, oil temp, time features) |
-| 🎯 Classes | Continuous (oil temperature) |
-| 📅 Introduced | 2021 · Zhou et al. (Informer paper) |
-| 💡 Fun fact | Introduced alongside the Informer transformer — now a standard benchmark for long-sequence time-series forecasting |
+| 📁 Samples | 33,702 |
+| 🏷️ Features | Variable-length email text |
+| 🎯 Classes | 2 — Spam · Ham |
+| 📅 Introduced | 2004 · Metsis et al. |
+| 💡 Fun fact | Built from real Enron employee emails released during the 2001 scandal — the largest public email corpus of its time |
 
 ```
-Train          ████████████░░░░░░░░ 60%
-Val            ████░░░░░░░░░░░░░░░░ 20%
-Test           ████░░░░░░░░░░░░░░░░ 20%
+Ham            ███████████████░░░░░ 75%
+Spam           █████░░░░░░░░░░░░░░░ 25%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
