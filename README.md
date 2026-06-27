@@ -14,19 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Car Evaluation** |
+| | **Bank Marketing** |
 |:--|:--|
-| 📁 Samples | 1,728 |
-| 🏷️ Features | 6 (buying, maint, doors, safety…) |
-| 🎯 Classes | 4 — unacc · acc · good · vgood |
-| 📅 Introduced | 1997 · Bohanec · UCI |
-| 💡 Fun fact | All 1,728 samples are synthetically generated from a hierarchical decision model — perfect for testing rule-induction algorithms |
+| 📁 Samples | 45,211 |
+| 🏷️ Features | 16 (age, job, balance, contact…) |
+| 🎯 Classes | 2 — subscribed / not subscribed |
+| 📅 Introduced | 2012 · Moro et al. · UCI |
+| 💡 Fun fact | Based on real Portuguese bank telemarketing calls (2008–2013) — hit rate was only 11.7%, showing how hard cold outreach is |
 
 ```
-unacc          ██████████████░░░░░░ 70%
-acc            ████░░░░░░░░░░░░░░░░ 22%
-good           █░░░░░░░░░░░░░░░░░░░ 5%
-vgood          █░░░░░░░░░░░░░░░░░░░ 3%
+Not subscribed ██████████████████░░ 88%
+Subscribed     ██░░░░░░░░░░░░░░░░░░ 12%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
