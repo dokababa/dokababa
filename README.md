@@ -14,17 +14,19 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Titanic Survival** |
+| | **CIFAR-10** |
 |:--|:--|
-| 📁 Samples | 891 |
-| 🏷️ Features | 12 (age, class, fare, sex…) |
-| 🎯 Classes | 2 — Survived / Did not survive |
-| 📅 Introduced | 2012 · Kaggle |
-| 💡 Fun fact | The most-submitted Kaggle dataset ever — 1st-class passengers had a 63% survival rate vs 24% in 3rd class |
+| 📁 Samples | 60,000 |
+| 🏷️ Features | 3072 (32×32×3 RGB) |
+| 🎯 Classes | 10 (airplane, car, bird…) |
+| 📅 Introduced | 2009 · Krizhevsky & Hinton |
+| 💡 Fun fact | AlexNet's 2012 win on ImageNet used techniques first validated on CIFAR-10, kicking off the deep learning revolution |
 
 ```
-Survived       ████████░░░░░░░░░░░░ 38%
-Did not survive ████████████░░░░░░░░ 62%
+Each class     ██░░░░░░░░░░░░░░░░░░ 10%
+Each class     ██░░░░░░░░░░░░░░░░░░ 10%
+Each class     ██░░░░░░░░░░░░░░░░░░ 10%
+Each class     ██░░░░░░░░░░░░░░░░░░ 10%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
