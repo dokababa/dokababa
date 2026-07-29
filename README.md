@@ -14,17 +14,19 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Bank Marketing** |
+| | **Air Quality (UCI)** |
 |:--|:--|
-| 📁 Samples | 45,211 |
-| 🏷️ Features | 16 (age, job, balance, contact…) |
-| 🎯 Classes | 2 — subscribed / not subscribed |
-| 📅 Introduced | 2012 · Moro et al. · UCI |
-| 💡 Fun fact | Based on real Portuguese bank telemarketing calls (2008–2013) — hit rate was only 11.7%, showing how hard cold outreach is |
+| 📁 Samples | 9,358 |
+| 🏷️ Features | 15 (CO, NOx, O3, humidity, temp…) |
+| 🎯 Classes | Continuous (pollutant concentration) |
+| 📅 Introduced | 2004–2005 · De Vito et al. |
+| 💡 Fun fact | Collected hourly by a multisensor device in an Italian city — popular for studying sensor drift in IoT applications |
 
 ```
-Not subscribed ██████████████████░░ 88%
-Subscribed     ██░░░░░░░░░░░░░░░░░░ 12%
+Winter         █████░░░░░░░░░░░░░░░ 25%
+Spring         █████░░░░░░░░░░░░░░░ 25%
+Summer         █████░░░░░░░░░░░░░░░ 25%
+Autumn         █████░░░░░░░░░░░░░░░ 25%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
