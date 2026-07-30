@@ -14,19 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Air Quality (UCI)** |
+| | **Mushroom** |
 |:--|:--|
-| 📁 Samples | 9,358 |
-| 🏷️ Features | 15 (CO, NOx, O3, humidity, temp…) |
-| 🎯 Classes | Continuous (pollutant concentration) |
-| 📅 Introduced | 2004–2005 · De Vito et al. |
-| 💡 Fun fact | Collected hourly by a multisensor device in an Italian city — popular for studying sensor drift in IoT applications |
+| 📁 Samples | 8,124 |
+| 🏷️ Features | 22 (cap shape, odor, gill color…) |
+| 🎯 Classes | 2 — Edible · Poisonous |
+| 📅 Introduced | 1987 · Schlimmer · UCI |
+| 💡 Fun fact | "Odor" alone predicts edibility with 98.5% accuracy — the strongest single-feature predictor in any UCI dataset |
 
 ```
-Winter         █████░░░░░░░░░░░░░░░ 25%
-Spring         █████░░░░░░░░░░░░░░░ 25%
-Summer         █████░░░░░░░░░░░░░░░ 25%
-Autumn         █████░░░░░░░░░░░░░░░ 25%
+Edible         ██████████░░░░░░░░░░ 52%
+Poisonous      ██████████░░░░░░░░░░ 48%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
