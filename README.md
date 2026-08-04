@@ -14,18 +14,18 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Fake News (LIAR)** |
+| | **Open Images V7** |
 |:--|:--|
-| 📁 Samples | 12,836 |
-| 🏷️ Features | 12 (speaker, context, history…) |
-| 🎯 Classes | 6 (pants-fire → true) |
-| 📅 Introduced | 2017 · Wang · ACL |
-| 💡 Fun fact | Sourced from PolitiFact fact-checks — speaker history (past lie count) is actually one of the best predictors of veracity |
+| 📁 Samples | 9,000,000 |
+| 🏷️ Features | Multi-res RGB + bounding boxes |
+| 🎯 Classes | 600 object categories |
+| 📅 Introduced | 2022 · Google |
+| 💡 Fun fact | 9M images with 40M bounding boxes — the annotations took 15M human-hours to produce |
 
 ```
-False/Mostly false █████████░░░░░░░░░░░ 43%
-Half-true      ████░░░░░░░░░░░░░░░░ 21%
-True/Mostly true ███████░░░░░░░░░░░░░ 36%
+Train          ██████████████████░░ 89%
+Val            █░░░░░░░░░░░░░░░░░░░ 6%
+Test           █░░░░░░░░░░░░░░░░░░░ 5%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
