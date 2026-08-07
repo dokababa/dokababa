@@ -14,17 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **MNIST Handwritten Digits** |
+| | **Titanic Survival** |
 |:--|:--|
-| 📁 Samples | 70,000 |
-| 🏷️ Features | 784 (28×28 pixels) |
-| 🎯 Classes | 10 (digits 0–9) |
-| 📅 Introduced | 1998 · LeCun et al. |
-| 💡 Fun fact | Trained on US census forms & high-school student writing; became the de-facto CNN benchmark for 20 years |
+| 📁 Samples | 891 |
+| 🏷️ Features | 12 (age, class, fare, sex…) |
+| 🎯 Classes | 2 — Survived / Did not survive |
+| 📅 Introduced | 2012 · Kaggle |
+| 💡 Fun fact | The most-submitted Kaggle dataset ever — 1st-class passengers had a 63% survival rate vs 24% in 3rd class |
 
 ```
-0-4            ██████████░░░░░░░░░░ 50%
-5-9            ██████████░░░░░░░░░░ 50%
+Survived       ████████░░░░░░░░░░░░ 38%
+Did not survive ████████████░░░░░░░░ 62%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
