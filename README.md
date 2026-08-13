@@ -33,13 +33,15 @@
 
 ## · About Me ·
 
-MS Data Analytics student at UIS and ex-Data Analyst at Tredence Analytics (2+ yrs, Fortune 500 client). I build end-to-end ML pipelines, predictive models, and data visualizations — from churn models driving **$4M/month revenue** to fine-tuning transformers with QLoRA on a single GPU.
+I am a Lead Python / AI Engineer with years of experience delivering production-grade backend, data, machine learning, and Generative AI solutions across financial services, healthcare, and life sciences.
 
-- 💼 Ex-Data Analyst @ Tredence Analytics · Bangalore, Karnataka (India)
-- 🥽 Graduate Research Assistant (VR Data Visualization Research | Meta Quest 3 + Unity)
-- 🎓 Master of Science in Data Analytics · University of Illinois at Springfield (2024–2025) &nbsp;&nbsp; 
-- 🎓 Bachelor of Technology in Computer Science & Engineering · National Institute of Technology, Hamirpur (2018–2022) &nbsp;&nbsp; 
-- 📍 Based out of Springfield, IL (USA) &nbsp;&nbsp; 
+My recent work focuses on enterprise LLM applications: RAG architectures, multi-agent workflows, vector search, model evaluation, AI guardrails, and secure deployment in regulated environments.
+
+I build systems that turn complex unstructured data, such as financial reports, clinical documents, contracts, and transaction streams into reliable, actionable intelligence.
+
+I combine strong software engineering fundamentals with practical ML and MLOps expertise. My core stack includes Python, FastAPI, Django, LangChain, LangGraph, LlamaIndex, PyTorch, AWS, Kubernetes, Docker, MLflow, Airflow, Spark, and vector databases including Pinecone, Milvus, and Qdrant.
+
+I have led cross-functional delivery from architecture and experimentation through production deployment, monitoring, governance, and continuous improvement. I am particularly interested in building scalable AI platforms that balance performance, cost, security, explainability, and regulatory compliance.
 
 ---
 
