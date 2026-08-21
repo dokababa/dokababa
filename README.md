@@ -14,17 +14,19 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Spam Email (Enron)** |
+| | **Amazon Product Reviews** |
 |:--|:--|
-| 📁 Samples | 33,702 |
-| 🏷️ Features | Variable-length email text |
-| 🎯 Classes | 2 — Spam · Ham |
-| 📅 Introduced | 2004 · Metsis et al. |
-| 💡 Fun fact | Built from real Enron employee emails released during the 2001 scandal — the largest public email corpus of its time |
+| 📁 Samples | 233,100,000 |
+| 🏷️ Features | Rating + text review |
+| 🎯 Classes | 5-star scale |
+| 📅 Introduced | 2018 · McAuley et al. |
+| 💡 Fun fact | 233M+ reviews spanning 1996–2018 — more text than the entire Wikipedia, making it a major pretraining corpus |
 
 ```
-Ham            ███████████████░░░░░ 75%
-Spam           █████░░░░░░░░░░░░░░░ 25%
+5★             ███████████░░░░░░░░░ 53%
+4★             ████░░░░░░░░░░░░░░░░ 19%
+3★             ██░░░░░░░░░░░░░░░░░░ 9%
+1-2★           ████░░░░░░░░░░░░░░░░ 19%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
