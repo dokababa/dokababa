@@ -14,17 +14,19 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Mushroom** |
+| | **CIFAR-100** |
 |:--|:--|
-| 📁 Samples | 8,124 |
-| 🏷️ Features | 22 (cap shape, odor, gill color…) |
-| 🎯 Classes | 2 — Edible · Poisonous |
-| 📅 Introduced | 1987 · Schlimmer · UCI |
-| 💡 Fun fact | "Odor" alone predicts edibility with 98.5% accuracy — the strongest single-feature predictor in any UCI dataset |
+| 📁 Samples | 60,000 |
+| 🏷️ Features | 3072 (32×32×3 RGB) |
+| 🎯 Classes | 100 fine / 20 coarse |
+| 📅 Introduced | 2009 · Krizhevsky |
+| 💡 Fun fact | 100 fine-grained classes grouped into 20 superclasses — "baby", "boy", "girl" are all subclasses of "people" |
 
 ```
-Edible         ██████████░░░░░░░░░░ 52%
-Poisonous      ██████████░░░░░░░░░░ 48%
+Each class     ░░░░░░░░░░░░░░░░░░░░ 1%
+Each class     ░░░░░░░░░░░░░░░░░░░░ 1%
+Each class     ░░░░░░░░░░░░░░░░░░░░ 1%
+Each class     ░░░░░░░░░░░░░░░░░░░░ 1%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
