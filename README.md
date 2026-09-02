@@ -14,17 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Twitter Sentiment140** |
+| | **Solar Energy (Alabama)** |
 |:--|:--|
-| 📁 Samples | 1,600,000 |
-| 🏷️ Features | Variable-length tweets |
-| 🎯 Classes | 2 — Positive · Negative |
-| 📅 Introduced | 2009 · Go et al. (Stanford) |
-| 💡 Fun fact | Labels were automatically assigned using emoticons as proxies — :) = positive, :( = negative. No human annotation needed |
+| 📁 Samples | 52,560 |
+| 🏷️ Features | 137 (solar plant sensors) |
+| 🎯 Classes | Continuous (energy output) |
+| 📅 Introduced | 2015 · LSTNet paper |
+| 💡 Fun fact | Hourly solar power readings across 137 stations — used to benchmark multivariate time-series forecasting models |
 
 ```
-Positive       ██████████░░░░░░░░░░ 50%
-Negative       ██████████░░░░░░░░░░ 50%
+Day (active)   ██████████░░░░░░░░░░ 50%
+Night (zero)   ██████████░░░░░░░░░░ 50%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
