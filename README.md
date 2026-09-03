@@ -14,17 +14,18 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Solar Energy (Alabama)** |
+| | **Fake News (LIAR)** |
 |:--|:--|
-| 📁 Samples | 52,560 |
-| 🏷️ Features | 137 (solar plant sensors) |
-| 🎯 Classes | Continuous (energy output) |
-| 📅 Introduced | 2015 · LSTNet paper |
-| 💡 Fun fact | Hourly solar power readings across 137 stations — used to benchmark multivariate time-series forecasting models |
+| 📁 Samples | 12,836 |
+| 🏷️ Features | 12 (speaker, context, history…) |
+| 🎯 Classes | 6 (pants-fire → true) |
+| 📅 Introduced | 2017 · Wang · ACL |
+| 💡 Fun fact | Sourced from PolitiFact fact-checks — speaker history (past lie count) is actually one of the best predictors of veracity |
 
 ```
-Day (active)   ██████████░░░░░░░░░░ 50%
-Night (zero)   ██████████░░░░░░░░░░ 50%
+False/Mostly false █████████░░░░░░░░░░░ 43%
+Half-true      ████░░░░░░░░░░░░░░░░ 21%
+True/Mostly true ███████░░░░░░░░░░░░░ 36%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
