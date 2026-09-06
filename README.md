@@ -14,18 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Iris** |
+| | **MNIST Handwritten Digits** |
 |:--|:--|
-| 📁 Samples | 150 |
-| 🏷️ Features | 4 (sepal/petal length & width) |
-| 🎯 Classes | 3 — Setosa · Versicolor · Virginica |
-| 📅 Introduced | 1936 · Ronald Fisher |
-| 💡 Fun fact | Still the "hello world" of ML — used in virtually every intro course, 88 years later |
+| 📁 Samples | 70,000 |
+| 🏷️ Features | 784 (28×28 pixels) |
+| 🎯 Classes | 10 (digits 0–9) |
+| 📅 Introduced | 1998 · LeCun et al. |
+| 💡 Fun fact | Trained on US census forms & high-school student writing; became the de-facto CNN benchmark for 20 years |
 
 ```
-Setosa         ███████░░░░░░░░░░░░░ 33%
-Versicolor     ███████░░░░░░░░░░░░░ 33%
-Virginica      ███████░░░░░░░░░░░░░ 33%
+0-4            ██████████░░░░░░░░░░ 50%
+5-9            ██████████░░░░░░░░░░ 50%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
