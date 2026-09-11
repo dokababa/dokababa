@@ -14,17 +14,19 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Adult Income (Census)** |
+| | **Fashion-MNIST** |
 |:--|:--|
-| 📁 Samples | 48,842 |
-| 🏷️ Features | 14 (age, education, occupation…) |
-| 🎯 Classes | 2 — >$50K / ≤$50K |
-| 📅 Introduced | 1996 · UCI (1994 US Census) |
-| 💡 Fun fact | A foundational fairness benchmark — income correlates with race & sex in ways ML models can amplify |
+| 📁 Samples | 70,000 |
+| 🏷️ Features | 784 (28×28 pixels) |
+| 🎯 Classes | 10 (T-shirt, trouser, dress…) |
+| 📅 Introduced | 2017 · Zalando Research |
+| 💡 Fun fact | Created as a harder drop-in replacement for MNIST after researchers noted MNIST was "too easy" for modern CNNs |
 
 ```
->$50K          █████░░░░░░░░░░░░░░░ 24%
-≤$50K          ███████████████░░░░░ 76%
+Each class     ██░░░░░░░░░░░░░░░░░░ 10%
+Each class     ██░░░░░░░░░░░░░░░░░░ 10%
+Each class     ██░░░░░░░░░░░░░░░░░░ 10%
+Each class     ██░░░░░░░░░░░░░░░░░░ 10%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
