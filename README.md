@@ -14,18 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **California Housing** |
+| | **Diabetes (Pima Indians)** |
 |:--|:--|
-| 📁 Samples | 20,640 |
-| 🏷️ Features | 8 (income, rooms, location…) |
-| 🎯 Classes | Continuous (median house value) |
-| 📅 Introduced | 1997 · Pace & Barry |
-| 💡 Fun fact | Based on 1990 US Census data — it replaced Boston Housing as scikit-learn's default regression demo dataset |
+| 📁 Samples | 768 |
+| 🏷️ Features | 8 (glucose, BMI, age…) |
+| 🎯 Classes | 2 — Diabetic · Non-diabetic |
+| 📅 Introduced | 1988 · National Institute of Diabetes |
+| 💡 Fun fact | Collected from Pima Native American women in Arizona — the community has one of the highest type-2 diabetes prevalence rates worldwide |
 
 ```
-<$150K         ██████░░░░░░░░░░░░░░ 30%
-$150–250K      ████████░░░░░░░░░░░░ 40%
->$250K         ██████░░░░░░░░░░░░░░ 30%
+Non-diabetic   █████████████░░░░░░░ 65%
+Diabetic       ███████░░░░░░░░░░░░░ 35%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
