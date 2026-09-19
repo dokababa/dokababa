@@ -14,17 +14,18 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Credit Card Fraud Detection** |
+| | **ETTh (Electricity Transformer Temperature)** |
 |:--|:--|
-| 📁 Samples | 284,807 |
-| 🏷️ Features | 30 (PCA-transformed transactions) |
-| 🎯 Classes | 2 — Fraud · Legitimate |
-| 📅 Introduced | 2013 · ULB (anonymized) |
-| 💡 Fun fact | Only 0.17% of transactions are fraudulent — the ultimate class imbalance challenge; SMOTE was popularized on datasets like this |
+| 📁 Samples | 17,420 |
+| 🏷️ Features | 7 (load, oil temp, time features) |
+| 🎯 Classes | Continuous (oil temperature) |
+| 📅 Introduced | 2021 · Zhou et al. (Informer paper) |
+| 💡 Fun fact | Introduced alongside the Informer transformer — now a standard benchmark for long-sequence time-series forecasting |
 
 ```
-Legitimate     ████████████████████ 100%
-Fraud          ░░░░░░░░░░░░░░░░░░░░ 0%
+Train          ████████████░░░░░░░░ 60%
+Val            ████░░░░░░░░░░░░░░░░ 20%
+Test           ████░░░░░░░░░░░░░░░░ 20%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
