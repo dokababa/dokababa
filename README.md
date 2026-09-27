@@ -14,17 +14,19 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Heart Disease (Cleveland)** |
+| | **Car Evaluation** |
 |:--|:--|
-| 📁 Samples | 303 |
-| 🏷️ Features | 13 (age, cholesterol, ECG…) |
-| 🎯 Classes | 2 (presence/absence) |
-| 📅 Introduced | 1988 · UCI · Detrano et al. |
-| 💡 Fun fact | Despite only 303 samples, it's been cited 3,000+ times — proof that a tiny but well-curated dataset can outlast massive ones |
+| 📁 Samples | 1,728 |
+| 🏷️ Features | 6 (buying, maint, doors, safety…) |
+| 🎯 Classes | 4 — unacc · acc · good · vgood |
+| 📅 Introduced | 1997 · Bohanec · UCI |
+| 💡 Fun fact | All 1,728 samples are synthetically generated from a hierarchical decision model — perfect for testing rule-induction algorithms |
 
 ```
-No disease     ███████████░░░░░░░░░ 54%
-Disease        █████████░░░░░░░░░░░ 46%
+unacc          ██████████████░░░░░░ 70%
+acc            ████░░░░░░░░░░░░░░░░ 22%
+good           █░░░░░░░░░░░░░░░░░░░ 5%
+vgood          █░░░░░░░░░░░░░░░░░░░ 3%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
