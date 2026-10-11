@@ -14,17 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Breast Cancer Wisconsin** |
+| | **Adult Income (Census)** |
 |:--|:--|
-| 📁 Samples | 569 |
-| 🏷️ Features | 30 (tumor geometry) |
-| 🎯 Classes | 2 — Malignant · Benign |
-| 📅 Introduced | 1995 · UCI ML Repository |
-| 💡 Fun fact | Features were computed from digitized FNA biopsy images — one of the earliest clinical ML datasets |
+| 📁 Samples | 48,842 |
+| 🏷️ Features | 14 (age, education, occupation…) |
+| 🎯 Classes | 2 — >$50K / ≤$50K |
+| 📅 Introduced | 1996 · UCI (1994 US Census) |
+| 💡 Fun fact | A foundational fairness benchmark — income correlates with race & sex in ways ML models can amplify |
 
 ```
-Benign         █████████████░░░░░░░ 63%
-Malignant      ███████░░░░░░░░░░░░░ 37%
+>$50K          █████░░░░░░░░░░░░░░░ 24%
+≤$50K          ███████████████░░░░░ 76%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
