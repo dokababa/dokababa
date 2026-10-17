@@ -14,18 +14,18 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Boston Housing** |
+| | **California Housing** |
 |:--|:--|
-| 📁 Samples | 506 |
-| 🏷️ Features | 13 (crime rate, rooms, accessibility…) |
-| 🎯 Classes | Continuous (median home value) |
-| 📅 Introduced | 1978 · Harrison & Rubinfeld |
-| 💡 Fun fact | Retired from scikit-learn in 2021 — the dataset contains a racial proxy variable that encodes discriminatory assumptions |
+| 📁 Samples | 20,640 |
+| 🏷️ Features | 8 (income, rooms, location…) |
+| 🎯 Classes | Continuous (median house value) |
+| 📅 Introduced | 1997 · Pace & Barry |
+| 💡 Fun fact | Based on 1990 US Census data — it replaced Boston Housing as scikit-learn's default regression demo dataset |
 
 ```
-<$20K          ███████░░░░░░░░░░░░░ 34%
-$20–30K        ███████░░░░░░░░░░░░░ 36%
->$30K          ██████░░░░░░░░░░░░░░ 30%
+<$150K         ██████░░░░░░░░░░░░░░ 30%
+$150–250K      ████████░░░░░░░░░░░░ 40%
+>$250K         ██████░░░░░░░░░░░░░░ 30%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
