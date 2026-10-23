@@ -14,19 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **Amazon Product Reviews** |
+| | **MS COCO** |
 |:--|:--|
-| 📁 Samples | 233,100,000 |
-| 🏷️ Features | Rating + text review |
-| 🎯 Classes | 5-star scale |
-| 📅 Introduced | 2018 · McAuley et al. |
-| 💡 Fun fact | 233M+ reviews spanning 1996–2018 — more text than the entire Wikipedia, making it a major pretraining corpus |
+| 📁 Samples | 330,000 |
+| 🏷️ Features | High-res images + 5 captions each |
+| 🎯 Classes | 80 object categories |
+| 📅 Introduced | 2014 · Microsoft Research |
+| 💡 Fun fact | Every image has 5 human-written captions — it's the gold standard for image captioning and object detection benchmarks |
 
 ```
-5★             ███████████░░░░░░░░░ 53%
-4★             ████░░░░░░░░░░░░░░░░ 19%
-3★             ██░░░░░░░░░░░░░░░░░░ 9%
-1-2★           ████░░░░░░░░░░░░░░░░ 19%
+Train          █████████████████░░░ 83%
+Val+Test       ███░░░░░░░░░░░░░░░░░ 17%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
