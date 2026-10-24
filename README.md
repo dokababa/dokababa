@@ -14,17 +14,17 @@
 ## 📊 · Daily Classic ML Dataset Spotlight &nbsp;·&nbsp; 
 
 <!-- DATASET_SPOTLIGHT_START -->
-| | **MS COCO** |
+| | **NYC Taxi Trips** |
 |:--|:--|
-| 📁 Samples | 330,000 |
-| 🏷️ Features | High-res images + 5 captions each |
-| 🎯 Classes | 80 object categories |
-| 📅 Introduced | 2014 · Microsoft Research |
-| 💡 Fun fact | Every image has 5 human-written captions — it's the gold standard for image captioning and object detection benchmarks |
+| 📁 Samples | 1,000,000,000 |
+| 🏷️ Features | 18 (pickup/dropoff, fare, tip…) |
+| 🎯 Classes | Continuous (fare / duration) |
+| 📅 Introduced | 2009–present · NYC TLC |
+| 💡 Fun fact | 1B+ trips since 2009 — researchers used it to expose driver identity from supposedly anonymised medallion IDs |
 
 ```
-Train          █████████████████░░░ 83%
-Val+Test       ███░░░░░░░░░░░░░░░░░ 17%
+Manhattan      █████████████░░░░░░░ 65%
+Outer boroughs ███████░░░░░░░░░░░░░ 35%
 ```
 <!-- DATASET_SPOTLIGHT_END -->
 
