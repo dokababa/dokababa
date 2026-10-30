@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&duration=2800&pause=1200&color=D0CCC8&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Gunjan+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;Turning+Raw+Data+into+Decisions" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dokababa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dokababa)
+<![![LinkedIn](https://img.shields.io/badge/LinkedIn-dokababa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dokababa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-dokababa.github.io-D0CCC8?style=flat&logo=google-chrome&logoColor=black)](https://dokababa.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-gunjanjha619@gmail.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:gunjanjha619@gmail.com)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dokababa.dokababa&color=8a8680)](https://github.com/dokababa)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dokababa.dokababa&color=8a8680)](https://github.com/dokababa)>
 
 </div>
 
